@@ -1,2 +1,0 @@
-# FInalApp
-Created with CodeSandbox
